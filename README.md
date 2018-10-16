@@ -1,4 +1,4 @@
-# SwipeTypeClassification
+# Magnet Swipe Classification
 This is a project which detects type of a magnet swipe on the back of an Android phone
 
 This is a sequence classification problem.
